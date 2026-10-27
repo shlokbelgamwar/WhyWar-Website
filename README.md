@@ -1,5 +1,6 @@
 # Why War — public concept website
 
+**Live page:** https://whywar-website.vercel.app/  
 **Creator:** Shlok Belgamwar  
 **Status:** Rough VR concept and early prototype; visuals and interactions are a work in progress.
 

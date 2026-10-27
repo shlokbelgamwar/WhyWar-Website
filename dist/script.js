@@ -1,6 +1,6 @@
 const copyButton = document.querySelector('#copy-credit');
 const status = document.querySelector('#copy-status');
-const credit = 'Shlok Belgamwar. Why War. Rough VR narrative concept and early prototype, 2026. https://why-war-shlok-belgamwar.snugscout18.chatgpt.site/';
+const credit = 'Shlok Belgamwar. Why War. Rough VR narrative concept and early prototype, 2026. https://whywar-website.vercel.app/';
 copyButton.addEventListener('click', async () => {
   try {
     await navigator.clipboard.writeText(credit);

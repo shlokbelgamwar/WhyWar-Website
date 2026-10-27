@@ -4,7 +4,7 @@
 **Status:** Rough concept and early prototype — work in progress  
 **Format:** First-person VR narrative concept / Unity prototype  
 **Public project record:** 26 October 2026  
-**Project page:** https://why-war-shlok-belgamwar.snugscout18.chatgpt.site/
+**Project page:** https://whywar-website.vercel.app/
 
 ## Central question
 
@@ -32,6 +32,6 @@ The private source archive's initial Git snapshot was established on 26 October 
 
 If this project inspires your work, please acknowledge it and link to the public project page. This request does not grant a license to redistribute project code or third-party assets.
 
-Suggested credit: Shlok Belgamwar. *Why War.* Rough VR narrative concept and early prototype, 2026. https://why-war-shlok-belgamwar.snugscout18.chatgpt.site/
+Suggested credit: Shlok Belgamwar. *Why War.* Rough VR narrative concept and early prototype, 2026. https://whywar-website.vercel.app/
 
 © 2026 Shlok Belgamwar. Third-party materials retain their respective rights.
